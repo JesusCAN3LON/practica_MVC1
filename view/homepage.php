@@ -50,7 +50,7 @@
                                     <hr class="dropdown-divider">
                                 </li>
                                 <li><a class="dropdown-item" href="?url=editarUsuario"><i class="bi bi-gear fa-fw me-2"></i>Modificar Perfil</a></li>
-                                <li><a class="dropdown-item bg-danger-soft-hover" href="#"><i class="bi bi-power fa-fw me-2"></i>Cerrar Sesion</a></li>
+                                <li><a class="dropdown-item bg-danger-soft-hover" href="?url=login"><i class="bi bi-power fa-fw me-2"></i>Cerrar Sesion</a></li>
                                 <li>
                                     <hr class="dropdown-divider">
                                 </li>
