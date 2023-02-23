@@ -1,0 +1,21 @@
+{
+    "name": "practica_mv1/content",
+    "description": "Practica de MVC",
+    "type": "project",
+    "require": {
+        "php": "^8.1",
+        "setasign/fpdf": "^1.8"
+    },
+    "license": "001",
+    "autoload": {
+        "psr-4": {
+            "PracticaMv1\\Content\\": "content/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jesus Canelon (Can3loN)"
+        }
+    ],
+    "minimum-stability": "beta"
+}

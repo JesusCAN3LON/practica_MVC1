@@ -1,0 +1,34 @@
+.fondo{
+    background-color: rgb(13, 0, 42);
+}
+.carta{
+    margin-top: 50px;
+    background-color: rgb(255, 255, 255);
+    width: 800px;
+}
+.imagen{
+    width: 300px;
+    height: auto;
+}
+.errorText{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 5rem;
+}
+.divisor{
+    height: 2px;
+    background-color: black;
+    margin: 25px;
+}
+
+
+/* APARTADO DEL LOGIN*/
+.fondoLogin{
+    background-color: rgb(20, 0, 38);
+}
+
+
+.divisorSm{
+    height: 2px;
+    background-color: rgb(13, 0, 42);
+    margin: 15px 0 5px 0;
+}
