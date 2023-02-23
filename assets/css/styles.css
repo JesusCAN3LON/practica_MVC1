@@ -32,3 +32,35 @@
     background-color: rgb(13, 0, 42);
     margin: 15px 0 5px 0;
 }
+
+
+/* APARTADO HOME */
+header{
+    background-color: black;
+}
+.fondoHome{
+    background-color: rgb(20, 0, 38);
+}
+
+.noticia1{
+    background: none;
+    border-top: 5px solid red;
+    border-right: 5px solid red;
+    border-bottom: 5px solid red;
+}
+.noticia2{
+    background: none;
+    border-right: 5px solid red;
+    border-bottom: 5px solid red;
+    margin: 20px;
+}
+
+.ph2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+
+.pHome{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
