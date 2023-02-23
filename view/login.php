@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="assets/css/styles.css">
 </head>
 
-<body class="fondoLogin">
+<body>
     <div class="container-fluid">
         <div class="row d-flex justify-content-center">
             <div class="col-5">

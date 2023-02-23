@@ -1,3 +1,8 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(20, 0, 38);
+}
 .fondo{
     background-color: rgb(13, 0, 42);
 }
@@ -22,9 +27,6 @@
 
 
 /* APARTADO DEL LOGIN*/
-.fondoLogin{
-    background-color: rgb(20, 0, 38);
-}
 
 
 .divisorSm{
@@ -35,11 +37,10 @@
 
 
 /* APARTADO HOME */
-header{
+.headerHome{
     background-color: black;
-}
-.fondoHome{
-    background-color: rgb(20, 0, 38);
+    color: white;
+    padding: 23px;
 }
 
 .noticia1{
@@ -64,3 +65,5 @@ header{
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+
